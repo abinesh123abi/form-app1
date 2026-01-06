@@ -74,7 +74,7 @@ function App() {
                   </form>
                   <div className='footer'>
                       <button  onClick={handleSubmit} >Register</button>
-                      <p> have an account? <span style={{color:"green"}}>Login</span></p>
+                      <p>Already have an account? <span style={{color:"green"}}>Login</span></p>
                   </div>
               </div>
          </div>
